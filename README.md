@@ -1,2 +1,2 @@
-machine-learning-practice
-Collection of machine learning classification projects with complete data preprocessing, feature engineering, model building, and evaluation.
+##machine-learning-practice
+A personal machine learning practice repository where different datasets are used to build and evaluate classification models.
